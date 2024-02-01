@@ -1,0 +1,15 @@
+.container{
+    width: 500px;
+    height: 300px;
+    background-color: #E99694;
+    position: static;
+}
+
+.container1{
+    width: 200px;
+    height: 100px;
+    background-color: #E99694;
+    position: sticky;
+    top: 0;
+    left: 0;
+}
